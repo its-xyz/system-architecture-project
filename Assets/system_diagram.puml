@@ -1,0 +1,4 @@
+@startuml
+[WebServer] --> [APIGateway]
+[APIGateway] --> [UserDatabase]
+@enduml
